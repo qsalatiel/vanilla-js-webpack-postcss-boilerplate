@@ -1,0 +1,11 @@
+@import "./components/style.css";
+
+:root {
+    --red: red;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: var(--red);
+}
